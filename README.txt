@@ -1,6 +1,6 @@
 Wiki-API
 
-Developed an API for wikipedia with a small database.
+Developed a Rest API for wikipedia with a small database.
 
 Motivation
 
